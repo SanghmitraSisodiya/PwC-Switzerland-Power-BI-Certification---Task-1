@@ -1,5 +1,5 @@
 # PwC Switzerland Power BI Virtual Experience
-## Customer Retention
+## Customer Retention  [Live Dashboard](https://www.novypro.com/project/pwc-switzerland-virtual-case-experience---call-centre-trends-dashboard---developer---sanghmitra-sisodiya)
 ### 📈 Certification: PwC Switzerland Power BI Virtual Experience Case on Forage
 ### Task 1: 
 Call Centre Trends
