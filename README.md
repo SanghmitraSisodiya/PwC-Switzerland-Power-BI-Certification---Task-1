@@ -36,7 +36,7 @@ Solution: Call Centre Trends Dashboard
 
 -The average speed of answering was 67.52 seconds.
 
-- The Total call duration was 13 hours 17 minutes and 17 seconds.
+-The Total call duration was 13 hours 17 minutes and 17 seconds.
 
 -The overall customer satisfaction rating was 3.4. 
 
